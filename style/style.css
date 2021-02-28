@@ -345,6 +345,7 @@ a:hover{
   width: 500px;
   font-family: 'Spartan', sans-serif;
   font-size: 15px;
+  border: #5da8ef solid 1px;
 }
 #submit_button{
     position: relative;
